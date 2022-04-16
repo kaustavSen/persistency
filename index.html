@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Persistency analysis</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="main">
+    <h1>Persistency analysis</h1>
+    <hr>
+    <p class="lead">
+      Persistency measures how effective an insurance company has been in retaining
+      its policyholders. Here we have analyzed the persistency experience of life
+      insurance companies over the past years.  
+    </p>
+    <h2>
+      13<sup>th</sup> month persistency
+    </h2>
+    <p>
+      The 13<sup>th</sup> month persistency rate measures the proportion of 
+      policyholders who end up paying their premium for the second policy year.
+      If a policyholder feels that the insurance purchased is not a good fit and
+      was mis-sold to then, he/she may simply lapse their policy after paying the
+      initial premium for the first year. This is quite a popular KPI used in the 
+      insurance sector.
+    </p>
+    <div class="chart">
+      <div class="chart-title">
+        <h3>
+          <span style="color: #00A0D2; font-weight: 700">Listed insurers</span> have 
+          maintained a healthy 13<sup>th</sup> month persistency rate of generally 
+          above 70%. However, <span style="color: #FFB81C; font-weight: 700">Pramerica 
+          Life</span> has shown the greatest improvement over the past 5 years.
+        </h3>
+      </div>
+    </div>
+    <p>
+      Next, if we look at the change in percentage points (pp) over the same
+      period as above, we observe the <strong>law of diminishing returns</strong>
+      kick in. It is much easier to increase the persistency rate by 20pp from 40%
+      to 60% but comparatively harder to get a 10pp increase from 70% to 80%.
+    </p>
+    <div class="chart2">
+      <object type="image/svg+xml" data="persistency-chart-02.svg"></object>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.4.4/d3.min.js"></script>
+  <script src="script_chart_01.js"></script>
+  <!-- <script src="script_chart_02.js"></script> -->
+</body>
+</html>

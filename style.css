@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Staatliches&display=swap');
+
+body {
+  font-family: "Roboto Condensed";
+  font-size: 16px;
+  margin: 15px;
+}
+
+h1 {
+  font-family: Staatliches;
+  font-size: 2.8rem;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #63666A;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+
+h2 {
+  font-family: Staatliches;
+  font-size: 1.5rem;
+  letter-spacing: 3px;
+  text-align: left;
+  color: #702082;
+  margin: 10px 0px;
+}
+
+h3 {
+  font-size: .95rem;
+  font-weight: 500;
+  margin: 5px;
+}
+
+.chart-title {
+  width: 550px;
+  padding-left: 3px;
+  border-left: 4px solid #702082;
+}
+
+p {
+  font-size: 1rem;
+  margin: 10px 0px;
+  line-height: 1.4rem;
+}
+
+.lead {
+  font-size: calc(0.95em + 0.15vw);
+  font-weight: 300;
+
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  border: none;
+  border-top: 5px double #9FA3A6;
+  opacity: 0.3;
+}
+
+.main {
+  max-width: 900px;
+  margin: 0px auto;   
+}
+
+.y-axis {
+  font-family: "JetBrains Mono";
+  font-size: 0.8rem;
+}
+
+.y-axis .tick text {
+  fill: #a9a9a9;
+}
+
+.y-axis .tick line {
+  stroke-width: 0.7;
+  stroke-opacity: 0.28;
+  stroke-dasharray: 5,5;
+}
+
+.x-axis text {
+  font-family: "JetBrains Mono";
+  font-weight: 700;
+  font-size: 1.2rem;
+  fill: #63666A;
+}
+
+.listed-labels, .pramerica-label {
+  font-size: 0.8rem;
+  text-anchor: end;
+  font-weight: 700;
+}
+
+.listed-labels {
+  fill: #00A0D2;
+}
+
+.pramerica-label {
+  fill: #FFB81C;
+}
+
+.labels-group {
+  font-size: 0.8rem;
+  text-anchor: start;
+  font-weight: 700;
+  fill: #702082;
+}
+
+.name-label {
+  opacity: 0;
+}
+
+.label-rate-2021, .label-rate-2016 {
+  font-size: 0.75rem;
+  text-anchor: start;
+  font-weight: 700;
+  fill: #8a8a8a;
+  stroke-width: 1px;
+  stroke: white;
+  paint-order: stroke;
+  opacity: 0;
+}
+
+.label-rate-2016 {
+  text-anchor: middle;
+}
+
+.chart2 {
+  margin-top: 15px;
+}
