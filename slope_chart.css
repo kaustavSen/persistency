@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+body {
+    margin: 10px 30px;
+    font-size: 14px;
+    font-family: Inter;
+}
+
+h1 {
+    display: block;
+    width: 520px;
+    font-weight: 800;
+    font-size: 1.4rem;
+    line-height: 1.5rem;
+    margin: 0px;
+    margin-left: 80px;
+}
+
+h2 {
+    display: block;
+    width: 520px;
+    font-weight: 300;
+    font-size: 0.85rem;
+    line-height: 1.05rem;
+    margin-top: 8px;
+    margin-left: 80px;
+}
+
+p {
+    font-weight: 700;
+    font-size: 0.75rem;
+    margin-bottom: 5px;
+    color: #63666A;
+}
+
+a {
+    margin-left: 80px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 5px 10px;
+    margin-top: 20px;
+    border: none;
+    color: white;
+    background-color: #00C389;
+}
+
+a:active {
+    transform: translateY(2px);
+}
+
+.radio-toolbar {
+    margin-left: 80px;
+}
+
+.radio-toolbar input[type="radio"] {
+    opacity: 0;
+    position: fixed;
+    width: 0;
+}
+
+.radio-toolbar label {
+    display: inline-block;
+    background-color: #F2F2F2;
+    margin-left: 6px;
+    padding: 4px 10px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.radio-toolbar input[type="radio"]:checked + label {
+    background-color: #C110A0;
+    color: white;
+}
+
+.radio-toolbar label:hover {
+    background-color: #A6A6A6;
+    color: white;
+}
+
+select:focus {
+    outline: 0;
+    box-shadow: 0;
+}
+select, label {
+    font-family: Inter;
+    font-size: 0.75rem;
+}
+
+select option {
+    font-size: 0.75rem;
+}
+
+.comp1 {
+    user-select: none;
+}
+
+label {
+    font-weight: 700;
+}
+
+.comp1 label {
+    display: block;
+    margin-bottom: 5px;
+    color: #702082;
+    font-weight: 900;
+}
+
+.comp2 label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #FFB81C;
+    font-weight: 900;
+}
+
+.comp3 label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #00A0D2;
+    font-weight: 900;
+}
+
+.comp4 label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #948A54;
+    font-weight: 900;
+}
+
+.comp5 label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #00C389;
+    font-weight: 900;
+}
+
+.chart-holder {
+    margin-top: 20px;
+}
+
+.main {
+    display: flex;
+    margin-left: 80px;
+    justify-content: flex-start;
+}
+
+.flex-item {
+    align-self: center;
+}
+
+.comp-highlight-section {
+    margin-left: 30px;
+}
+
+.y-axis {
+    font-family: "JetBrains Mono";
+    font-size: 0.8rem;
+}
+  
+.y-axis .tick text {
+    fill: #a9a9a9;
+}
+
+.y-axis .tick line {
+    stroke-width: 0.7;
+    stroke-opacity: 0.28;
+    stroke-dasharray: 5,5;
+}
+
+.x-axis text {
+    font-family: "JetBrains Mono";
+    font-weight: 700;
+    font-size: 1.2rem;
+    fill: #63666A;
+}
+
+.labels-group {
+    font-size: 0.68rem;
+    text-anchor: start;
+    font-weight: 700;
+    fill: #702082;
+}
+
+.labels-group-visible {
+    font-size: 0.68rem;
+    text-anchor: start;
+    font-weight: 700;
+    fill: #BFBFBF;
+    transition: all 0.2s ease-in-out;
+}
+
+.name-label {
+    opacity: 0;
+}
+
+.label-rate-2021, .label-rate-2016 {
+    font-size: 0.6rem;
+    text-anchor: start;
+    font-weight: 700;
+    fill: #8a8a8a;
+    stroke-width: 1px;
+    stroke: white;
+    paint-order: stroke;
+    opacity: 0;
+}
+
+.label-rate-2016 {
+    text-anchor: middle;
+}
+
+.chart2 {
+    margin-top: 15px;
+}
+
+.highlight-line-1 {
+    stroke: #702082;
+    stroke-width: 3;
+}
+.highlight-comp-1 {
+    fill: #702082;
+}
+
+.highlight-line-2 {
+    stroke: #FFB81C;
+    stroke-width: 3;
+}
+.highlight-comp-2 {
+    fill: #FFB81C;
+}
+
+.highlight-line-3 {
+    stroke: #00A0D2;
+    stroke-width: 3;
+}
+.highlight-comp-3 {
+    fill: #00A0D2;
+}
+
+.highlight-line-4 {
+    stroke: #948A54;
+    stroke-width: 3;
+}
+.highlight-comp-4 {
+    fill: #948A54;
+}
+
+.highlight-line-5 {
+    stroke: #00C389;
+    stroke-width: 3;
+}
+.highlight-comp-5 {
+    fill: #00C389;
+}

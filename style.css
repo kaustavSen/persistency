@@ -127,3 +127,25 @@ hr {
 .chart2 {
   margin-top: 15px;
 }
+
+label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #702082;
+}
+select {
+  font-family: "JetBrains Mono";
+  font-size: 0.7rem;
+  margin-left: 10px;
+  width: 60px;
+  text-align: center;
+  color: rgb(109, 109, 109);
+  background-color: #dddddd99;
+  border: none;
+  outline: none;
+  padding: 3px;
+}
+.chart3 {
+  width: 400px;
+  height: 400px;
+}
