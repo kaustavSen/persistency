@@ -1,661 +1,661 @@
-full_name,short_name,type,year,rate
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_13,2016,0.54
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_13,2017,0.56
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_13,2018,0.6
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_13,2019,0.64
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_13,2020,0.69
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_13,2021,0.72
-Aegon Life Insurance Company Ltd.,Aegon,month_13,2016,0.6207335433901936
-Aegon Life Insurance Company Ltd.,Aegon,month_13,2017,0.65
-Aegon Life Insurance Company Ltd.,Aegon,month_13,2018,0.8
-Aegon Life Insurance Company Ltd.,Aegon,month_13,2019,0.83
-Aegon Life Insurance Company Ltd.,Aegon,month_13,2020,0.84
-Aegon Life Insurance Company Ltd.,Aegon,month_13,2021,0.87
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_13,2016,0.618946868211441
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_13,2017,0.6240635328681601
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_13,2018,0.6813891597930476
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_13,2019,0.745323938349706
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_13,2020,0.7025
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_13,2021,0.7334423548650858
-Aviva Life Insurance Company India Ltd.,Aviva,month_13,2016,0.624932405638271
-Aviva Life Insurance Company India Ltd.,Aviva,month_13,2017,0.7086615868095915
-Aviva Life Insurance Company India Ltd.,Aviva,month_13,2018,0.7455876510981215
-Aviva Life Insurance Company India Ltd.,Aviva,month_13,2019,0.727
-Aviva Life Insurance Company India Ltd.,Aviva,month_13,2020,0.691
-Aviva Life Insurance Company India Ltd.,Aviva,month_13,2021,0.6434879658385093
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_13,2016,0.5395026605360514
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_13,2017,0.5956
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_13,2018,0.644646543547397
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_13,2019,0.6337844235132797
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_13,2020,0.6631999999999999
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_13,2021,0.7011298601203655
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_13,2016,0.4973
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_13,2017,0.581891297661225
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_13,2018,0.5744328946181374
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_13,2019,0.5821351328772592
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_13,2020,0.5174
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_13,2021,0.38956418019074385
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_13,2016,0.592507084921333
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_13,2017,0.6896801257335399
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_13,2018,0.6978154153057833
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_13,2019,0.735871345766129
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_13,2020,0.7293000000000001
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_13,2021,0.7630065435417513
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_13,2016,0.6391638116990229
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_13,2017,0.6915570951137999
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_13,2018,0.7399715837209755
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_13,2019,0.7521244437525136
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_13,2020,0.7554000000000001
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_13,2021,0.7317671770493616
-Exide Life Insurance Company Ltd.,Exide,month_13,2016,0.588
-Exide Life Insurance Company Ltd.,Exide,month_13,2017,0.5867905840208295
-Exide Life Insurance Company Ltd.,Exide,month_13,2018,0.5892766196302222
-Exide Life Insurance Company Ltd.,Exide,month_13,2019,0.5962089112528854
-Exide Life Insurance Company Ltd.,Exide,month_13,2020,0.5998
-Exide Life Insurance Company Ltd.,Exide,month_13,2021,0.6181061340168589
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_13,2016,0.35226304380982865
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_13,2017,0.5130957920627535
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_13,2018,0.5783867508638151
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_13,2019,0.5348629633518849
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_13,2020,0.5704
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_13,2021,0.6277933166494921
-HDFC Life Insurance Company Ltd.,HDFC,month_13,2016,0.7133398381978964
-HDFC Life Insurance Company Ltd.,HDFC,month_13,2017,0.67
-HDFC Life Insurance Company Ltd.,HDFC,month_13,2018,0.69
-HDFC Life Insurance Company Ltd.,HDFC,month_13,2019,0.71
-HDFC Life Insurance Company Ltd.,HDFC,month_13,2020,0.728
-HDFC Life Insurance Company Ltd.,HDFC,month_13,2021,0.774
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_13,2016,0.787
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_13,2017,0.8057625799440483
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_13,2018,0.807
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_13,2019,0.7882696194468256
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_13,2020,0.8190000000000001
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_13,2021,0.8087817084036699
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_13,2016,0.6053
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_13,2017,0.6556000000000001
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_13,2018,0.6560992477144688
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_13,2019,0.6588
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_13,2020,0.6743000000000001
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_13,2021,0.711
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_13,2016,0.7682127714249005
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_13,2017,0.79
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_13,2018,0.8111391014216993
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_13,2019,0.8355
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_13,2020,0.8073999999999999
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_13,2021,0.8341555857363949
-MaxLife  Insurance Company Ltd.,Max,month_13,2016,0.74
-MaxLife  Insurance Company Ltd.,Max,month_13,2017,0.77
-MaxLife  Insurance Company Ltd.,Max,month_13,2018,0.77
-MaxLife  Insurance Company Ltd.,Max,month_13,2019,0.79
-MaxLife  Insurance Company Ltd.,Max,month_13,2020,0.82
-MaxLife  Insurance Company Ltd.,Max,month_13,2021,0.79
-PNB Metlife India Insurance Company Ltd.,PNB,month_13,2016,0.633
-PNB Metlife India Insurance Company Ltd.,PNB,month_13,2017,0.6931
-PNB Metlife India Insurance Company Ltd.,PNB,month_13,2018,0.7170000000000001
-PNB Metlife India Insurance Company Ltd.,PNB,month_13,2019,0.7731710884789088
-PNB Metlife India Insurance Company Ltd.,PNB,month_13,2020,0.7422
-PNB Metlife India Insurance Company Ltd.,PNB,month_13,2021,0.7588000000000001
-Pramerica Life Insurance Company Ltd.,Pramerica,month_13,2016,0.5008378363112609
-Pramerica Life Insurance Company Ltd.,Pramerica,month_13,2017,0.6476498788232589
-Pramerica Life Insurance Company Ltd.,Pramerica,month_13,2018,0.7432882397413418
-Pramerica Life Insurance Company Ltd.,Pramerica,month_13,2019,0.772
-Pramerica Life Insurance Company Ltd.,Pramerica,month_13,2020,0.9079
-Pramerica Life Insurance Company Ltd.,Pramerica,month_13,2021,0.9402471320097764
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_13,2016,0.558
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_13,2017,0.603
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_13,2018,0.664728725422367
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_13,2019,0.7259427768222085
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_13,2020,0.7076
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_13,2021,0.7288051928820002
-SBI Life Insurance Company Ltd.,SBI,month_13,2016,0.6925
-SBI Life Insurance Company Ltd.,SBI,month_13,2017,0.6880827247734714
-SBI Life Insurance Company Ltd.,SBI,month_13,2018,0.6985896633431661
-SBI Life Insurance Company Ltd.,SBI,month_13,2019,0.7091
-SBI Life Insurance Company Ltd.,SBI,month_13,2020,0.7119
-SBI Life Insurance Company Ltd.,SBI,month_13,2021,0.7929490135387331
-Shriram Life Insurance Company Ltd.,Shriram,month_13,2016,0.4719369641475641
-Shriram Life Insurance Company Ltd.,Shriram,month_13,2017,0.44419169745049353
-Shriram Life Insurance Company Ltd.,Shriram,month_13,2018,0.5202241420976317
-Shriram Life Insurance Company Ltd.,Shriram,month_13,2019,0.5727840158656359
-Shriram Life Insurance Company Ltd.,Shriram,month_13,2020,0.5407
-Shriram Life Insurance Company Ltd.,Shriram,month_13,2021,0.5587737425255013
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_13,2016,0.5289
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_13,2017,0.6044739256227507
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_13,2018,0.6896
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_13,2019,0.6962800176969328
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_13,2020,0.6592
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_13,2021,0.6944526276689764
-TATA AIA Life Insurance Company Ltd.,Tata,month_13,2016,0.5684
-TATA AIA Life Insurance Company Ltd.,Tata,month_13,2017,0.5657947836484568
-TATA AIA Life Insurance Company Ltd.,Tata,month_13,2018,0.6533
-TATA AIA Life Insurance Company Ltd.,Tata,month_13,2019,0.7106999999999999
-TATA AIA Life Insurance Company Ltd.,Tata,month_13,2020,0.7304999999999999
-TATA AIA Life Insurance Company Ltd.,Tata,month_13,2021,0.7015251734488328
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_25,2016,0.42
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_25,2017,0.49
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_25,2018,0.51
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_25,2019,0.54
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_25,2020,0.53
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_25,2021,0.62
-Aegon Life Insurance Company Ltd.,Aegon,month_25,2016,0.667785916196842
-Aegon Life Insurance Company Ltd.,Aegon,month_25,2017,0.55
-Aegon Life Insurance Company Ltd.,Aegon,month_25,2018,0.59
-Aegon Life Insurance Company Ltd.,Aegon,month_25,2019,0.74
-Aegon Life Insurance Company Ltd.,Aegon,month_25,2020,0.76
-Aegon Life Insurance Company Ltd.,Aegon,month_25,2021,0.79
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_25,2016,0.5892782341049411
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_25,2017,0.5629913666942721
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_25,2018,0.5599532736069465
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_25,2019,0.6136393746687865
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_25,2020,0.6567000000000001
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_25,2021,0.6386307539506938
-Aviva Life Insurance Company India Ltd.,Aviva,month_25,2016,0.4782818253677534
-Aviva Life Insurance Company India Ltd.,Aviva,month_25,2017,0.5663666238034005
-Aviva Life Insurance Company India Ltd.,Aviva,month_25,2018,0.648136735280825
-Aviva Life Insurance Company India Ltd.,Aviva,month_25,2019,0.6730000000000002
-Aviva Life Insurance Company India Ltd.,Aviva,month_25,2020,0.644
-Aviva Life Insurance Company India Ltd.,Aviva,month_25,2021,0.6275801767479624
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_25,2016,0.42178674930058085
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_25,2017,0.44699239413734665
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_25,2018,0.5005790221506772
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_25,2019,0.5046869743973089
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_25,2020,0.5096
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_25,2021,0.5879192902401416
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_25,2016,0.42460000000000003
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_25,2017,0.4782593429230211
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_25,2018,0.5014038988276012
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_25,2019,0.5002975740152318
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_25,2020,0.4841
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_25,2021,0.4429561232799194
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_25,2016,0.4705781964639224
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_25,2017,0.5380547871428921
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_25,2018,0.6010263497745656
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_25,2019,0.6148349278544543
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_25,2020,0.6502
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_25,2021,0.6549485181974091
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_25,2016,0.40982389451489326
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_25,2017,0.5513082322910019
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_25,2018,0.5831156026620655
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_25,2019,0.6293812678903857
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_25,2020,0.6122
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_25,2021,0.66075858121144
-Exide Life Insurance Company Ltd.,Exide,month_25,2016,0.523
-Exide Life Insurance Company Ltd.,Exide,month_25,2017,0.5230754063381974
-Exide Life Insurance Company Ltd.,Exide,month_25,2018,0.5195455590279306
-Exide Life Insurance Company Ltd.,Exide,month_25,2019,0.5211194140786926
-Exide Life Insurance Company Ltd.,Exide,month_25,2020,0.525
-Exide Life Insurance Company Ltd.,Exide,month_25,2021,0.5341765727393505
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_25,2016,0.3158519929531063
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_25,2017,0.3227273950846591
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_25,2018,0.4065694653929948
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_25,2019,0.45690900337024554
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_25,2020,0.40340000000000004
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_25,2021,0.4512839516339331
-HDFC Life Insurance Company Ltd.,HDFC,month_25,2016,0.6128141240341296
-HDFC Life Insurance Company Ltd.,HDFC,month_25,2017,0.65
-HDFC Life Insurance Company Ltd.,HDFC,month_25,2018,0.61
-HDFC Life Insurance Company Ltd.,HDFC,month_25,2019,0.614
-HDFC Life Insurance Company Ltd.,HDFC,month_25,2020,0.624
-HDFC Life Insurance Company Ltd.,HDFC,month_25,2021,0.642
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_25,2016,0.664
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_25,2017,0.7132870164210925
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_25,2018,0.732
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_25,2019,0.7200587746083762
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_25,2020,0.7170000000000001
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_25,2021,0.7260864665216935
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_25,2016,0.49700000000000005
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_25,2017,0.5159
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_25,2018,0.5710420251788787
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_25,2019,0.5716
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_25,2020,0.5774
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_25,2021,0.582
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_25,2016,0.6386944641988247
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_25,2017,0.68
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_25,2018,0.7064569664222308
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_25,2019,0.7297
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_25,2020,0.7358
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_25,2021,0.7464189185278645
-MaxLife  Insurance Company Ltd.,Max,month_25,2016,0.62
-MaxLife  Insurance Company Ltd.,Max,month_25,2017,0.67
-MaxLife  Insurance Company Ltd.,Max,month_25,2018,0.69
-MaxLife  Insurance Company Ltd.,Max,month_25,2019,0.67
-MaxLife  Insurance Company Ltd.,Max,month_25,2020,0.7
-MaxLife  Insurance Company Ltd.,Max,month_25,2021,0.67
-PNB Metlife India Insurance Company Ltd.,PNB,month_25,2016,0.463
-PNB Metlife India Insurance Company Ltd.,PNB,month_25,2017,0.5243
-PNB Metlife India Insurance Company Ltd.,PNB,month_25,2018,0.5777
-PNB Metlife India Insurance Company Ltd.,PNB,month_25,2019,0.6261983234050956
-PNB Metlife India Insurance Company Ltd.,PNB,month_25,2020,0.6271
-PNB Metlife India Insurance Company Ltd.,PNB,month_25,2021,0.6301
-Pramerica Life Insurance Company Ltd.,Pramerica,month_25,2016,0.34714810006891356
-Pramerica Life Insurance Company Ltd.,Pramerica,month_25,2017,0.4687782623550455
-Pramerica Life Insurance Company Ltd.,Pramerica,month_25,2018,0.5927942950400908
-Pramerica Life Insurance Company Ltd.,Pramerica,month_25,2019,0.661
-Pramerica Life Insurance Company Ltd.,Pramerica,month_25,2020,0.8382999999999999
-Pramerica Life Insurance Company Ltd.,Pramerica,month_25,2021,0.8527610340526288
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_25,2016,0.4486
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_25,2017,0.469
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_25,2018,0.5077963138662912
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_25,2019,0.5824066860259225
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_25,2020,0.6213000000000001
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_25,2021,0.6134984165095121
-SBI Life Insurance Company Ltd.,SBI,month_25,2016,0.5931
-SBI Life Insurance Company Ltd.,SBI,month_25,2017,0.5803069755768537
-SBI Life Insurance Company Ltd.,SBI,month_25,2018,0.5980643422510512
-SBI Life Insurance Company Ltd.,SBI,month_25,2019,0.62
-SBI Life Insurance Company Ltd.,SBI,month_25,2020,0.6333
-SBI Life Insurance Company Ltd.,SBI,month_25,2021,0.6619077029808231
-Shriram Life Insurance Company Ltd.,Shriram,month_25,2016,0.3339018591532657
-Shriram Life Insurance Company Ltd.,Shriram,month_25,2017,0.30644689462962665
-Shriram Life Insurance Company Ltd.,Shriram,month_25,2018,0.30576008080593287
-Shriram Life Insurance Company Ltd.,Shriram,month_25,2019,0.41667003271801917
-Shriram Life Insurance Company Ltd.,Shriram,month_25,2020,0.3953
-Shriram Life Insurance Company Ltd.,Shriram,month_25,2021,0.4028433578982981
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_25,2016,0.4421
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_25,2017,0.42304810274129423
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_25,2018,0.5947
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_25,2019,0.6076151593148131
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_25,2020,0.5367000000000001
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_25,2021,0.5623653214502395
-TATA AIA Life Insurance Company Ltd.,Tata,month_25,2016,0.4583
-TATA AIA Life Insurance Company Ltd.,Tata,month_25,2017,0.4957695572410394
-TATA AIA Life Insurance Company Ltd.,Tata,month_25,2018,0.4903
-TATA AIA Life Insurance Company Ltd.,Tata,month_25,2019,0.5775
-TATA AIA Life Insurance Company Ltd.,Tata,month_25,2020,0.6489
-TATA AIA Life Insurance Company Ltd.,Tata,month_25,2021,0.6366911158369862
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_37,2016,0.34
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_37,2017,0.37
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_37,2018,0.44
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_37,2019,0.45
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_37,2020,0.44
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_37,2021,0.48
-Aegon Life Insurance Company Ltd.,Aegon,month_37,2016,0.6054076759128175
-Aegon Life Insurance Company Ltd.,Aegon,month_37,2017,0.63
-Aegon Life Insurance Company Ltd.,Aegon,month_37,2018,0.51
-Aegon Life Insurance Company Ltd.,Aegon,month_37,2019,0.55
-Aegon Life Insurance Company Ltd.,Aegon,month_37,2020,0.68
-Aegon Life Insurance Company Ltd.,Aegon,month_37,2021,0.72
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_37,2016,0.49117248019606985
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_37,2017,0.5445597087289825
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_37,2018,0.5187095894458144
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_37,2019,0.5073945153507561
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_37,2020,0.5326
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_37,2021,0.6087117398525097
-Aviva Life Insurance Company India Ltd.,Aviva,month_37,2016,0.44259957217072426
-Aviva Life Insurance Company India Ltd.,Aviva,month_37,2017,0.4389824160027535
-Aviva Life Insurance Company India Ltd.,Aviva,month_37,2018,0.5146036497055132
-Aviva Life Insurance Company India Ltd.,Aviva,month_37,2019,0.597
-Aviva Life Insurance Company India Ltd.,Aviva,month_37,2020,0.608
-Aviva Life Insurance Company India Ltd.,Aviva,month_37,2021,0.6059543683917641
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_37,2016,0.33401007979710023
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_37,2017,0.35894906423178297
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_37,2018,0.41299416899943575
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_37,2019,0.45504225212907895
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_37,2020,0.4175
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_37,2021,0.4603930950401409
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_37,2016,0.33390000000000003
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_37,2017,0.4589410878160065
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_37,2018,0.42987987459048155
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_37,2019,0.45533696203699425
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_37,2020,0.4211
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_37,2021,0.42858484805786484
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_37,2016,0.4070071028719317
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_37,2017,0.43988279824881427
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_37,2018,0.49492768734436526
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_37,2019,0.5473898135743318
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_37,2020,0.5529999999999999
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_37,2021,0.6032753878227233
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_37,2016,0.30653861334034993
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_37,2017,0.3623816210079765
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_37,2018,0.495154412714821
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_37,2019,0.5278577688744209
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_37,2020,0.5488000000000001
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_37,2021,0.5575084713077495
-Exide Life Insurance Company Ltd.,Exide,month_37,2016,0.429
-Exide Life Insurance Company Ltd.,Exide,month_37,2017,0.4334212687112041
-Exide Life Insurance Company Ltd.,Exide,month_37,2018,0.4355180148236864
-Exide Life Insurance Company Ltd.,Exide,month_37,2019,0.43544245830951894
-Exide Life Insurance Company Ltd.,Exide,month_37,2020,0.43729999999999997
-Exide Life Insurance Company Ltd.,Exide,month_37,2021,0.47651041344149275
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_37,2016,0.2919863010466613
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_37,2017,0.2953005794150547
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_37,2018,0.27045540694211295
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_37,2019,0.34073824372155737
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_37,2020,0.36619999999999997
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_37,2021,0.32695875742154373
-HDFC Life Insurance Company Ltd.,HDFC,month_37,2016,0.5517375818838255
-HDFC Life Insurance Company Ltd.,HDFC,month_37,2017,0.58
-HDFC Life Insurance Company Ltd.,HDFC,month_37,2018,0.6
-HDFC Life Insurance Company Ltd.,HDFC,month_37,2019,0.563
-HDFC Life Insurance Company Ltd.,HDFC,month_37,2020,0.552
-HDFC Life Insurance Company Ltd.,HDFC,month_37,2021,0.57
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_37,2016,0.564
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_37,2017,0.6176861188751795
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_37,2018,0.6629999999999999
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_37,2019,0.6654494880092201
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_37,2020,0.66
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_37,2021,0.6445454221978564
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_37,2016,0.5061
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_37,2017,0.447
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_37,2018,0.470248695118207
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_37,2019,0.5216
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_37,2020,0.5161
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_37,2021,0.5086
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_37,2016,0.559378062170171
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_37,2017,0.59
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_37,2018,0.632058787165304
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_37,2019,0.654
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_37,2020,0.6489
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_37,2021,0.682599116326579
-MaxLife  Insurance Company Ltd.,Max,month_37,2016,0.53
-MaxLife  Insurance Company Ltd.,Max,month_37,2017,0.55
-MaxLife  Insurance Company Ltd.,Max,month_37,2018,0.58
-MaxLife  Insurance Company Ltd.,Max,month_37,2019,0.6
-MaxLife  Insurance Company Ltd.,Max,month_37,2020,0.61
-MaxLife  Insurance Company Ltd.,Max,month_37,2021,0.58
-PNB Metlife India Insurance Company Ltd.,PNB,month_37,2016,0.358
-PNB Metlife India Insurance Company Ltd.,PNB,month_37,2017,0.4069
-PNB Metlife India Insurance Company Ltd.,PNB,month_37,2018,0.4584
-PNB Metlife India Insurance Company Ltd.,PNB,month_37,2019,0.5182536887176376
-PNB Metlife India Insurance Company Ltd.,PNB,month_37,2020,0.5329
-PNB Metlife India Insurance Company Ltd.,PNB,month_37,2021,0.5584
-Pramerica Life Insurance Company Ltd.,Pramerica,month_37,2016,0.18804615839826413
-Pramerica Life Insurance Company Ltd.,Pramerica,month_37,2017,0.3311959516836213
-Pramerica Life Insurance Company Ltd.,Pramerica,month_37,2018,0.39679563661155615
-Pramerica Life Insurance Company Ltd.,Pramerica,month_37,2019,0.541
-Pramerica Life Insurance Company Ltd.,Pramerica,month_37,2020,0.7490000000000001
-Pramerica Life Insurance Company Ltd.,Pramerica,month_37,2021,0.7779941980936593
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_37,2016,0.3909
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_37,2017,0.401
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_37,2018,0.4196546453773861
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_37,2019,0.46296055056805746
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_37,2020,0.5028
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_37,2021,0.5603208943444229
-SBI Life Insurance Company Ltd.,SBI,month_37,2016,0.4996
-SBI Life Insurance Company Ltd.,SBI,month_37,2017,0.5546249557390953
-SBI Life Insurance Company Ltd.,SBI,month_37,2018,0.5314443964332011
-SBI Life Insurance Company Ltd.,SBI,month_37,2019,0.5523
-SBI Life Insurance Company Ltd.,SBI,month_37,2020,0.5631
-SBI Life Insurance Company Ltd.,SBI,month_37,2021,0.5434028162153784
-Shriram Life Insurance Company Ltd.,Shriram,month_37,2016,0.2524406241142232
-Shriram Life Insurance Company Ltd.,Shriram,month_37,2017,0.28034343793522387
-Shriram Life Insurance Company Ltd.,Shriram,month_37,2018,0.25967938051964673
-Shriram Life Insurance Company Ltd.,Shriram,month_37,2019,0.25061585029221956
-Shriram Life Insurance Company Ltd.,Shriram,month_37,2020,0.30870000000000003
-Shriram Life Insurance Company Ltd.,Shriram,month_37,2021,0.3105321067522626
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_37,2016,0.33629999999999993
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_37,2017,0.35451505016722407
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_37,2018,0.5141
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_37,2019,0.5425937285079648
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_37,2020,0.46140000000000003
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_37,2021,0.47598570757268127
-TATA AIA Life Insurance Company Ltd.,Tata,month_37,2016,0.3791
-TATA AIA Life Insurance Company Ltd.,Tata,month_37,2017,0.4185004566524789
-TATA AIA Life Insurance Company Ltd.,Tata,month_37,2018,0.4581
-TATA AIA Life Insurance Company Ltd.,Tata,month_37,2019,0.4511
-TATA AIA Life Insurance Company Ltd.,Tata,month_37,2020,0.5462
-TATA AIA Life Insurance Company Ltd.,Tata,month_37,2021,0.5716084170340409
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_49,2016,0.31
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_49,2017,0.32
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_49,2018,0.35
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_49,2019,0.41
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_49,2020,0.39
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_49,2021,0.42
-Aegon Life Insurance Company Ltd.,Aegon,month_49,2016,0.39826639995896806
-Aegon Life Insurance Company Ltd.,Aegon,month_49,2017,0.58
-Aegon Life Insurance Company Ltd.,Aegon,month_49,2018,0.61
-Aegon Life Insurance Company Ltd.,Aegon,month_49,2019,0.49
-Aegon Life Insurance Company Ltd.,Aegon,month_49,2020,0.52
-Aegon Life Insurance Company Ltd.,Aegon,month_49,2021,0.65
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_49,2016,0.5390860415888432
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_49,2017,0.4592689981593479
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_49,2018,0.5193427849214199
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_49,2019,0.49184263220169283
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_49,2020,0.46399999999999997
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_49,2021,0.5141443654957168
-Aviva Life Insurance Company India Ltd.,Aviva,month_49,2016,0.41512599326675653
-Aviva Life Insurance Company India Ltd.,Aviva,month_49,2017,0.4190725545659271
-Aviva Life Insurance Company India Ltd.,Aviva,month_49,2018,0.40779805870296604
-Aviva Life Insurance Company India Ltd.,Aviva,month_49,2019,0.484
-Aviva Life Insurance Company India Ltd.,Aviva,month_49,2020,0.5660000000000001
-Aviva Life Insurance Company India Ltd.,Aviva,month_49,2021,0.5910385689056001
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_49,2016,0.2816336731851101
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_49,2017,0.29800486920809255
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_49,2018,0.3411528509651366
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_49,2019,0.39141476686715143
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_49,2020,0.39490000000000003
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_49,2021,0.40224477602966985
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_49,2016,0.2768
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_49,2017,0.35785681198208863
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_49,2018,0.4284945680289705
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_49,2019,0.40404040404040403
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_49,2020,0.40619999999999995
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_49,2021,0.39775468452605117
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_49,2016,0.4143183454577054
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_49,2017,0.3928771380582946
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_49,2018,0.4183826132638961
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_49,2019,0.4688553638668078
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_49,2020,0.5154
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_49,2021,0.5273537648404528
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_49,2016,0.288604076590488
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_49,2017,0.282798577887021
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_49,2018,0.3303405758065481
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_49,2019,0.4595881095783952
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_49,2020,0.46380000000000005
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_49,2021,0.5247159838804398
-Exide Life Insurance Company Ltd.,Exide,month_49,2016,0.364
-Exide Life Insurance Company Ltd.,Exide,month_49,2017,0.3735722247550961
-Exide Life Insurance Company Ltd.,Exide,month_49,2018,0.3795086542046971
-Exide Life Insurance Company Ltd.,Exide,month_49,2019,0.3833788542832918
-Exide Life Insurance Company Ltd.,Exide,month_49,2020,0.38409999999999994
-Exide Life Insurance Company Ltd.,Exide,month_49,2021,0.4077494895354773
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_49,2016,0.2343869267326813
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_49,2017,0.2302916224341419
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_49,2018,0.27154020670531887
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_49,2019,0.24261723959609158
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_49,2020,0.2904
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_49,2021,0.3277051649579709
-HDFC Life Insurance Company Ltd.,HDFC,month_49,2016,0.5642785280839494
-HDFC Life Insurance Company Ltd.,HDFC,month_49,2017,0.53
-HDFC Life Insurance Company Ltd.,HDFC,month_49,2018,0.55
-HDFC Life Insurance Company Ltd.,HDFC,month_49,2019,0.573
-HDFC Life Insurance Company Ltd.,HDFC,month_49,2020,0.521
-HDFC Life Insurance Company Ltd.,HDFC,month_49,2021,0.517
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_49,2016,0.553
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_49,2017,0.5386679517650023
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_49,2018,0.594
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_49,2019,0.6245616195155275
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_49,2020,0.63
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_49,2021,0.6179386305071176
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_49,2016,0.4886
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_49,2017,0.482
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_49,2018,0.4181077475875164
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_49,2019,0.4376
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_49,2020,0.48590000000000005
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_49,2021,0.46760000000000007
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_49,2016,0.5119952389779413
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_49,2017,0.53
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_49,2018,0.5582053304290131
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_49,2019,0.6027
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_49,2020,0.6063000000000001
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_49,2021,0.6284293973812639
-MaxLife  Insurance Company Ltd.,Max,month_49,2016,0.49
-MaxLife  Insurance Company Ltd.,Max,month_49,2017,0.49
-MaxLife  Insurance Company Ltd.,Max,month_49,2018,0.52
-MaxLife  Insurance Company Ltd.,Max,month_49,2019,0.54
-MaxLife  Insurance Company Ltd.,Max,month_49,2020,0.56
-MaxLife  Insurance Company Ltd.,Max,month_49,2021,0.53
-PNB Metlife India Insurance Company Ltd.,PNB,month_49,2016,0.282
-PNB Metlife India Insurance Company Ltd.,PNB,month_49,2017,0.3268
-PNB Metlife India Insurance Company Ltd.,PNB,month_49,2018,0.3662
-PNB Metlife India Insurance Company Ltd.,PNB,month_49,2019,0.408691817140308
-PNB Metlife India Insurance Company Ltd.,PNB,month_49,2020,0.4525
-PNB Metlife India Insurance Company Ltd.,PNB,month_49,2021,0.4979
-Pramerica Life Insurance Company Ltd.,Pramerica,month_49,2016,0.20999074930619796
-Pramerica Life Insurance Company Ltd.,Pramerica,month_49,2017,0.1958415534324917
-Pramerica Life Insurance Company Ltd.,Pramerica,month_49,2018,0.2904579661671062
-Pramerica Life Insurance Company Ltd.,Pramerica,month_49,2019,0.366
-Pramerica Life Insurance Company Ltd.,Pramerica,month_49,2020,0.6774
-Pramerica Life Insurance Company Ltd.,Pramerica,month_49,2021,0.7040157783561101
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_49,2016,0.3613
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_49,2017,0.36
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_49,2018,0.38365901366393457
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_49,2019,0.4031334176956921
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_49,2020,0.4119
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_49,2021,0.4726217238270862
-SBI Life Insurance Company Ltd.,SBI,month_49,2016,0.4252
-SBI Life Insurance Company Ltd.,SBI,month_49,2017,0.3950373230616984
-SBI Life Insurance Company Ltd.,SBI,month_49,2018,0.5038624612330669
-SBI Life Insurance Company Ltd.,SBI,month_49,2019,0.4803
-SBI Life Insurance Company Ltd.,SBI,month_49,2020,0.4921
-SBI Life Insurance Company Ltd.,SBI,month_49,2021,0.5058782400997336
-Shriram Life Insurance Company Ltd.,Shriram,month_49,2016,0.2904810993900029
-Shriram Life Insurance Company Ltd.,Shriram,month_49,2017,0.22372088722142222
-Shriram Life Insurance Company Ltd.,Shriram,month_49,2018,0.2723484538992342
-Shriram Life Insurance Company Ltd.,Shriram,month_49,2019,0.24069590315080575
-Shriram Life Insurance Company Ltd.,Shriram,month_49,2020,0.2029
-Shriram Life Insurance Company Ltd.,Shriram,month_49,2021,0.3116333796545183
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_49,2016,0.2976
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_49,2017,0.2888726264299195
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_49,2018,0.46619999999999995
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_49,2019,0.49339573995478164
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_49,2020,0.39740000000000003
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_49,2021,0.43570590670714876
-TATA AIA Life Insurance Company Ltd.,Tata,month_49,2016,0.36090000000000005
-TATA AIA Life Insurance Company Ltd.,Tata,month_49,2017,0.353545514290696
-TATA AIA Life Insurance Company Ltd.,Tata,month_49,2018,0.3992
-TATA AIA Life Insurance Company Ltd.,Tata,month_49,2019,0.4383000000000001
-TATA AIA Life Insurance Company Ltd.,Tata,month_49,2020,0.4362
-TATA AIA Life Insurance Company Ltd.,Tata,month_49,2021,0.4953486562784805
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_61,2016,0.28
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_61,2017,0.27
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_61,2018,0.29
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_61,2019,0.32
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_61,2020,0.36
-Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,month_61,2021,0.38
-Aegon Life Insurance Company Ltd.,Aegon,month_61,2016,0.2731301083444212
-Aegon Life Insurance Company Ltd.,Aegon,month_61,2017,0.31
-Aegon Life Insurance Company Ltd.,Aegon,month_61,2018,0.48
-Aegon Life Insurance Company Ltd.,Aegon,month_61,2019,0.5
-Aegon Life Insurance Company Ltd.,Aegon,month_61,2020,0.37
-Aegon Life Insurance Company Ltd.,Aegon,month_61,2021,0.39
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_61,2016,0.5811217205520509
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_61,2017,0.5161890865178999
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_61,2018,0.43434666098777264
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_61,2019,0.49938508552901273
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_61,2020,0.4391
-Ageas Federal Life Insurance Company Ltd.,Ageas,month_61,2021,0.41096692360230264
-Aviva Life Insurance Company India Ltd.,Aviva,month_61,2016,0.31531169019298555
-Aviva Life Insurance Company India Ltd.,Aviva,month_61,2017,0.3750262632629478
-Aviva Life Insurance Company India Ltd.,Aviva,month_61,2018,0.3867567146807423
-Aviva Life Insurance Company India Ltd.,Aviva,month_61,2019,0.381
-Aviva Life Insurance Company India Ltd.,Aviva,month_61,2020,0.37799999999999995
-Aviva Life Insurance Company India Ltd.,Aviva,month_61,2021,0.39072056043589465
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_61,2016,0.14863116493298142
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_61,2017,0.2434357227639789
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_61,2018,0.2711878393767846
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_61,2019,0.3065828016201452
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_61,2020,0.298
-Bajaj Allianz Life Insurance Company Ltd.,BALIC,month_61,2021,0.3511066286892241
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_61,2016,0.1653
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_61,2017,0.24522418692769182
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_61,2018,0.33417315361932415
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_61,2019,0.3883117636817364
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_61,2020,0.3425
-Bharti AXA Life Insurance Company Ltd.,Bharti,month_61,2021,0.37487836010464193
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_61,2016,0.31043088956739506
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_61,2017,0.34539571926331514
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_61,2018,0.34256269323256616
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_61,2019,0.37609954699237347
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_61,2020,0.41869999999999996
-Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,month_61,2021,0.4568989322533137
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_61,2016,0.2595856524427953
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_61,2017,0.2595856524427953
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_61,2018,0.2558364475708947
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_61,2019,0.2986782284045404
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_61,2020,0.3979
-Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,month_61,2021,0.44277958740499457
-Exide Life Insurance Company Ltd.,Exide,month_61,2016,0.301
-Exide Life Insurance Company Ltd.,Exide,month_61,2017,0.3112514608321147
-Exide Life Insurance Company Ltd.,Exide,month_61,2018,0.322219847514888
-Exide Life Insurance Company Ltd.,Exide,month_61,2019,0.33028310402385147
-Exide Life Insurance Company Ltd.,Exide,month_61,2020,0.33490000000000003
-Exide Life Insurance Company Ltd.,Exide,month_61,2021,0.3275346306584255
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_61,2016,0.1660797028963958
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_61,2017,0.20457664792119615
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_61,2018,0.2007619529105879
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_61,2019,0.22610951231787738
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_61,2020,0.19039999999999999
-Future Generali India Life Insurance Company Ltd.,Future Generali,month_61,2021,0.2553966632618318
-HDFC Life Insurance Company Ltd.,HDFC,month_61,2016,0.4136379560016984
-HDFC Life Insurance Company Ltd.,HDFC,month_61,2017,0.5
-HDFC Life Insurance Company Ltd.,HDFC,month_61,2018,0.47
-HDFC Life Insurance Company Ltd.,HDFC,month_61,2019,0.472
-HDFC Life Insurance Company Ltd.,HDFC,month_61,2020,0.47200000000000003
-HDFC Life Insurance Company Ltd.,HDFC,month_61,2021,0.434
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_61,2016,0.352
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_61,2017,0.4912154132806602
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_61,2018,0.491
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_61,2019,0.5330365205869478
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_61,2020,0.565
-ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,month_61,2021,0.5642009048526744
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_61,2016,0.2601
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_61,2017,0.3578
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_61,2018,0.38413751146071656
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_61,2019,0.33629999999999993
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_61,2020,0.374
-IndiaFirst Life Insurance Company Ltd.,IFLI,month_61,2021,0.39629999999999993
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_61,2016,0.3738616417546263
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_61,2017,0.45
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_61,2018,0.4720462099615332
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_61,2019,0.4664
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_61,2020,0.48869999999999997
-Kotak Mahindra Life Insurance Ltd.,Kotak,month_61,2021,0.5080945819527459
-MaxLife  Insurance Company Ltd.,Max,month_61,2016,0.37
-MaxLife  Insurance Company Ltd.,Max,month_61,2017,0.46
-MaxLife  Insurance Company Ltd.,Max,month_61,2018,0.47
-MaxLife  Insurance Company Ltd.,Max,month_61,2019,0.49
-MaxLife  Insurance Company Ltd.,Max,month_61,2020,0.5
-MaxLife  Insurance Company Ltd.,Max,month_61,2021,0.5
-PNB Metlife India Insurance Company Ltd.,PNB,month_61,2016,0.171
-PNB Metlife India Insurance Company Ltd.,PNB,month_61,2017,0.2445
-PNB Metlife India Insurance Company Ltd.,PNB,month_61,2018,0.2647
-PNB Metlife India Insurance Company Ltd.,PNB,month_61,2019,0.3016293876424204
-PNB Metlife India Insurance Company Ltd.,PNB,month_61,2020,0.3148
-PNB Metlife India Insurance Company Ltd.,PNB,month_61,2021,0.3865
-Pramerica Life Insurance Company Ltd.,Pramerica,month_61,2016,0.15658548639521155
-Pramerica Life Insurance Company Ltd.,Pramerica,month_61,2017,0.22175340724525106
-Pramerica Life Insurance Company Ltd.,Pramerica,month_61,2018,0.15596239289114566
-Pramerica Life Insurance Company Ltd.,Pramerica,month_61,2019,0.266
-Pramerica Life Insurance Company Ltd.,Pramerica,month_61,2020,0.5733
-Pramerica Life Insurance Company Ltd.,Pramerica,month_61,2021,0.6291270515384826
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_61,2016,0.1617
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_61,2017,0.314
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_61,2018,0.32970930550933664
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_61,2019,0.3613634145724374
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_61,2020,0.35979999999999995
-Reliance Nippon  Life Insurance Company Ltd.,Reliance,month_61,2021,0.38999522465085495
-SBI Life Insurance Company Ltd.,SBI,month_61,2016,0.23440000000000003
-SBI Life Insurance Company Ltd.,SBI,month_61,2017,0.3718857262331356
-SBI Life Insurance Company Ltd.,SBI,month_61,2018,0.3799819739462814
-SBI Life Insurance Company Ltd.,SBI,month_61,2019,0.4228
-SBI Life Insurance Company Ltd.,SBI,month_61,2020,0.4261
-SBI Life Insurance Company Ltd.,SBI,month_61,2021,0.3892397851391982
-Shriram Life Insurance Company Ltd.,Shriram,month_61,2016,0.28033387966138923
-Shriram Life Insurance Company Ltd.,Shriram,month_61,2017,0.245291574478731
-Shriram Life Insurance Company Ltd.,Shriram,month_61,2018,0.19337543822443717
-Shriram Life Insurance Company Ltd.,Shriram,month_61,2019,0.23719747921410794
-Shriram Life Insurance Company Ltd.,Shriram,month_61,2020,0.1934
-Shriram Life Insurance Company Ltd.,Shriram,month_61,2021,0.2162976468225151
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_61,2016,0.214
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_61,2017,0.22497252697760722
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_61,2018,0.4285
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_61,2019,0.42737098099954485
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_61,2020,0.2586
-Star Union Dai-ichi Life Insurance Company Ltd.,SUD,month_61,2021,0.3564627594485298
-TATA AIA Life Insurance Company Ltd.,Tata,month_61,2016,0.2402
-TATA AIA Life Insurance Company Ltd.,Tata,month_61,2017,0.3321710699301499
-TATA AIA Life Insurance Company Ltd.,Tata,month_61,2018,0.3274
-TATA AIA Life Insurance Company Ltd.,Tata,month_61,2019,0.3797
-TATA AIA Life Insurance Company Ltd.,Tata,month_61,2020,0.42700000000000005
-TATA AIA Life Insurance Company Ltd.,Tata,month_61,2021,0.39752259036144577
+full_name,short_name,short_name_2,type,year,rate
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_13,2016,0.54
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_13,2017,0.56
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_13,2018,0.6
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_13,2019,0.64
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_13,2020,0.69
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_13,2021,0.72
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_13,2016,0.620733543
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_13,2017,0.65
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_13,2018,0.8
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_13,2019,0.83
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_13,2020,0.84
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_13,2021,0.87
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_13,2016,0.618946868
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_13,2017,0.624063533
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_13,2018,0.68138916
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_13,2019,0.745323938
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_13,2020,0.7025
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_13,2021,0.733442355
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_13,2016,0.624932406
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_13,2017,0.708661587
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_13,2018,0.745587651
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_13,2019,0.727
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_13,2020,0.691
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_13,2021,0.643487966
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_13,2016,0.539502661
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_13,2017,0.5956
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_13,2018,0.644646544
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_13,2019,0.633784424
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_13,2020,0.6632
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_13,2021,0.70112986
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_13,2016,0.4973
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_13,2017,0.581891298
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_13,2018,0.574432895
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_13,2019,0.582135133
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_13,2020,0.5174
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_13,2021,0.38956418
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_13,2016,0.592507085
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_13,2017,0.689680126
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_13,2018,0.697815415
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_13,2019,0.735871346
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_13,2020,0.7293
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_13,2021,0.763006544
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_13,2016,0.639163812
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_13,2017,0.691557095
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_13,2018,0.739971584
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_13,2019,0.752124444
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_13,2020,0.7554
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_13,2021,0.731767177
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_13,2016,0.588
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_13,2017,0.586790584
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_13,2018,0.58927662
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_13,2019,0.596208911
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_13,2020,0.5998
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_13,2021,0.618106134
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_13,2016,0.352263044
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_13,2017,0.513095792
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_13,2018,0.578386751
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_13,2019,0.534862963
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_13,2020,0.5704
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_13,2021,0.627793317
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_13,2016,0.713339838
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_13,2017,0.67
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_13,2018,0.69
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_13,2019,0.71
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_13,2020,0.728
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_13,2021,0.774
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_13,2016,0.787
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_13,2017,0.80576258
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_13,2018,0.807
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_13,2019,0.788269619
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_13,2020,0.819
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_13,2021,0.808781708
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_13,2016,0.6053
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_13,2017,0.6556
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_13,2018,0.656099248
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_13,2019,0.6588
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_13,2020,0.6743
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_13,2021,0.711
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_13,2016,0.768212771
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_13,2017,0.79
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_13,2018,0.811139101
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_13,2019,0.8355
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_13,2020,0.8074
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_13,2021,0.834155586
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_13,2016,0.74
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_13,2017,0.77
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_13,2018,0.77
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_13,2019,0.79
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_13,2020,0.82
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_13,2021,0.79
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_13,2016,0.633
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_13,2017,0.6931
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_13,2018,0.717
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_13,2019,0.773171088
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_13,2020,0.7422
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_13,2021,0.7588
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_13,2016,0.500837836
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_13,2017,0.647649879
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_13,2018,0.74328824
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_13,2019,0.772
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_13,2020,0.9079
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_13,2021,0.940247132
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_13,2016,0.558
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_13,2017,0.603
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_13,2018,0.664728725
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_13,2019,0.725942777
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_13,2020,0.7076
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_13,2021,0.728805193
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_13,2016,0.6925
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_13,2017,0.688082725
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_13,2018,0.698589663
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_13,2019,0.7091
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_13,2020,0.7119
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_13,2021,0.792949014
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_13,2016,0.471936964
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_13,2017,0.444191697
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_13,2018,0.520224142
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_13,2019,0.572784016
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_13,2020,0.5407
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_13,2021,0.558773743
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_13,2016,0.5289
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_13,2017,0.604473926
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_13,2018,0.6896
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_13,2019,0.696280018
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_13,2020,0.6592
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_13,2021,0.694452628
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_13,2016,0.5684
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_13,2017,0.565794784
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_13,2018,0.6533
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_13,2019,0.7107
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_13,2020,0.7305
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_13,2021,0.701525173
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_25,2016,0.42
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_25,2017,0.49
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_25,2018,0.51
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_25,2019,0.54
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_25,2020,0.53
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_25,2021,0.62
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_25,2016,0.667785916
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_25,2017,0.55
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_25,2018,0.59
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_25,2019,0.74
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_25,2020,0.76
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_25,2021,0.79
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_25,2016,0.589278234
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_25,2017,0.562991367
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_25,2018,0.559953274
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_25,2019,0.613639375
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_25,2020,0.6567
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_25,2021,0.638630754
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_25,2016,0.478281825
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_25,2017,0.566366624
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_25,2018,0.648136735
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_25,2019,0.673
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_25,2020,0.644
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_25,2021,0.627580177
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_25,2016,0.421786749
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_25,2017,0.446992394
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_25,2018,0.500579022
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_25,2019,0.504686974
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_25,2020,0.5096
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_25,2021,0.58791929
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_25,2016,0.4246
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_25,2017,0.478259343
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_25,2018,0.501403899
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_25,2019,0.500297574
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_25,2020,0.4841
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_25,2021,0.442956123
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_25,2016,0.470578196
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_25,2017,0.538054787
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_25,2018,0.60102635
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_25,2019,0.614834928
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_25,2020,0.6502
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_25,2021,0.654948518
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_25,2016,0.409823895
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_25,2017,0.551308232
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_25,2018,0.583115603
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_25,2019,0.629381268
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_25,2020,0.6122
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_25,2021,0.660758581
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_25,2016,0.523
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_25,2017,0.523075406
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_25,2018,0.519545559
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_25,2019,0.521119414
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_25,2020,0.525
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_25,2021,0.534176573
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_25,2016,0.315851993
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_25,2017,0.322727395
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_25,2018,0.406569465
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_25,2019,0.456909003
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_25,2020,0.4034
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_25,2021,0.451283952
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_25,2016,0.612814124
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_25,2017,0.65
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_25,2018,0.61
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_25,2019,0.614
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_25,2020,0.624
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_25,2021,0.642
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_25,2016,0.664
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_25,2017,0.713287016
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_25,2018,0.732
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_25,2019,0.720058775
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_25,2020,0.717
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_25,2021,0.726086467
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_25,2016,0.497
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_25,2017,0.5159
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_25,2018,0.571042025
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_25,2019,0.5716
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_25,2020,0.5774
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_25,2021,0.582
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_25,2016,0.638694464
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_25,2017,0.68
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_25,2018,0.706456966
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_25,2019,0.7297
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_25,2020,0.7358
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_25,2021,0.746418919
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_25,2016,0.62
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_25,2017,0.67
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_25,2018,0.69
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_25,2019,0.67
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_25,2020,0.7
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_25,2021,0.67
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_25,2016,0.463
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_25,2017,0.5243
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_25,2018,0.5777
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_25,2019,0.626198323
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_25,2020,0.6271
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_25,2021,0.6301
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_25,2016,0.3471481
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_25,2017,0.468778262
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_25,2018,0.592794295
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_25,2019,0.661
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_25,2020,0.8383
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_25,2021,0.852761034
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_25,2016,0.4486
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_25,2017,0.469
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_25,2018,0.507796314
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_25,2019,0.582406686
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_25,2020,0.6213
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_25,2021,0.613498417
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_25,2016,0.5931
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_25,2017,0.580306976
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_25,2018,0.598064342
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_25,2019,0.62
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_25,2020,0.6333
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_25,2021,0.661907703
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_25,2016,0.333901859
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_25,2017,0.306446895
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_25,2018,0.305760081
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_25,2019,0.416670033
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_25,2020,0.3953
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_25,2021,0.402843358
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_25,2016,0.4421
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_25,2017,0.423048103
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_25,2018,0.5947
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_25,2019,0.607615159
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_25,2020,0.5367
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_25,2021,0.562365321
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_25,2016,0.4583
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_25,2017,0.495769557
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_25,2018,0.4903
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_25,2019,0.5775
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_25,2020,0.6489
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_25,2021,0.636691116
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_37,2016,0.34
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_37,2017,0.37
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_37,2018,0.44
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_37,2019,0.45
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_37,2020,0.44
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_37,2021,0.48
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_37,2016,0.605407676
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_37,2017,0.63
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_37,2018,0.51
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_37,2019,0.55
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_37,2020,0.68
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_37,2021,0.72
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_37,2016,0.49117248
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_37,2017,0.544559709
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_37,2018,0.518709589
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_37,2019,0.507394515
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_37,2020,0.5326
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_37,2021,0.60871174
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_37,2016,0.442599572
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_37,2017,0.438982416
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_37,2018,0.51460365
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_37,2019,0.597
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_37,2020,0.608
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_37,2021,0.605954368
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_37,2016,0.33401008
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_37,2017,0.358949064
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_37,2018,0.412994169
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_37,2019,0.455042252
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_37,2020,0.4175
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_37,2021,0.460393095
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_37,2016,0.3339
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_37,2017,0.458941088
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_37,2018,0.429879875
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_37,2019,0.455336962
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_37,2020,0.4211
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_37,2021,0.428584848
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_37,2016,0.407007103
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_37,2017,0.439882798
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_37,2018,0.494927687
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_37,2019,0.547389814
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_37,2020,0.553
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_37,2021,0.603275388
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_37,2016,0.306538613
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_37,2017,0.362381621
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_37,2018,0.495154413
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_37,2019,0.527857769
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_37,2020,0.5488
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_37,2021,0.557508471
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_37,2016,0.429
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_37,2017,0.433421269
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_37,2018,0.435518015
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_37,2019,0.435442458
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_37,2020,0.4373
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_37,2021,0.476510413
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_37,2016,0.291986301
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_37,2017,0.295300579
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_37,2018,0.270455407
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_37,2019,0.340738244
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_37,2020,0.3662
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_37,2021,0.326958757
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_37,2016,0.551737582
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_37,2017,0.58
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_37,2018,0.6
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_37,2019,0.563
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_37,2020,0.552
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_37,2021,0.57
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_37,2016,0.564
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_37,2017,0.617686119
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_37,2018,0.663
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_37,2019,0.665449488
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_37,2020,0.66
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_37,2021,0.644545422
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_37,2016,0.5061
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_37,2017,0.447
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_37,2018,0.470248695
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_37,2019,0.5216
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_37,2020,0.5161
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_37,2021,0.5086
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_37,2016,0.559378062
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_37,2017,0.59
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_37,2018,0.632058787
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_37,2019,0.654
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_37,2020,0.6489
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_37,2021,0.682599116
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_37,2016,0.53
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_37,2017,0.55
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_37,2018,0.58
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_37,2019,0.6
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_37,2020,0.61
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_37,2021,0.58
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_37,2016,0.358
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_37,2017,0.4069
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_37,2018,0.4584
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_37,2019,0.518253689
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_37,2020,0.5329
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_37,2021,0.5584
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_37,2016,0.188046158
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_37,2017,0.331195952
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_37,2018,0.396795637
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_37,2019,0.541
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_37,2020,0.749
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_37,2021,0.777994198
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_37,2016,0.3909
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_37,2017,0.401
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_37,2018,0.419654645
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_37,2019,0.462960551
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_37,2020,0.5028
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_37,2021,0.560320894
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_37,2016,0.4996
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_37,2017,0.554624956
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_37,2018,0.531444396
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_37,2019,0.5523
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_37,2020,0.5631
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_37,2021,0.543402816
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_37,2016,0.252440624
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_37,2017,0.280343438
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_37,2018,0.259679381
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_37,2019,0.25061585
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_37,2020,0.3087
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_37,2021,0.310532107
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_37,2016,0.3363
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_37,2017,0.35451505
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_37,2018,0.5141
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_37,2019,0.542593729
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_37,2020,0.4614
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_37,2021,0.475985708
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_37,2016,0.3791
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_37,2017,0.418500457
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_37,2018,0.4581
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_37,2019,0.4511
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_37,2020,0.5462
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_37,2021,0.571608417
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_49,2016,0.31
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_49,2017,0.32
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_49,2018,0.35
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_49,2019,0.41
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_49,2020,0.39
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_49,2021,0.42
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_49,2016,0.3982664
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_49,2017,0.58
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_49,2018,0.61
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_49,2019,0.49
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_49,2020,0.52
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_49,2021,0.65
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_49,2016,0.539086042
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_49,2017,0.459268998
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_49,2018,0.519342785
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_49,2019,0.491842632
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_49,2020,0.464
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_49,2021,0.514144365
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_49,2016,0.415125993
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_49,2017,0.419072555
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_49,2018,0.407798059
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_49,2019,0.484
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_49,2020,0.566
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_49,2021,0.591038569
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_49,2016,0.281633673
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_49,2017,0.298004869
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_49,2018,0.341152851
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_49,2019,0.391414767
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_49,2020,0.3949
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_49,2021,0.402244776
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_49,2016,0.2768
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_49,2017,0.357856812
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_49,2018,0.428494568
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_49,2019,0.404040404
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_49,2020,0.4062
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_49,2021,0.397754685
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_49,2016,0.414318345
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_49,2017,0.392877138
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_49,2018,0.418382613
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_49,2019,0.468855364
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_49,2020,0.5154
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_49,2021,0.527353765
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_49,2016,0.288604077
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_49,2017,0.282798578
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_49,2018,0.330340576
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_49,2019,0.45958811
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_49,2020,0.4638
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_49,2021,0.524715984
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_49,2016,0.364
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_49,2017,0.373572225
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_49,2018,0.379508654
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_49,2019,0.383378854
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_49,2020,0.3841
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_49,2021,0.40774949
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_49,2016,0.234386927
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_49,2017,0.230291622
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_49,2018,0.271540207
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_49,2019,0.24261724
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_49,2020,0.2904
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_49,2021,0.327705165
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_49,2016,0.564278528
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_49,2017,0.53
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_49,2018,0.55
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_49,2019,0.573
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_49,2020,0.521
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_49,2021,0.517
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_49,2016,0.553
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_49,2017,0.538667952
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_49,2018,0.594
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_49,2019,0.62456162
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_49,2020,0.63
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_49,2021,0.617938631
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_49,2016,0.4886
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_49,2017,0.482
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_49,2018,0.418107748
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_49,2019,0.4376
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_49,2020,0.4859
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_49,2021,0.4676
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_49,2016,0.511995239
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_49,2017,0.53
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_49,2018,0.55820533
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_49,2019,0.6027
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_49,2020,0.6063
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_49,2021,0.628429397
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_49,2016,0.49
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_49,2017,0.49
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_49,2018,0.52
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_49,2019,0.54
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_49,2020,0.56
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_49,2021,0.53
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_49,2016,0.282
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_49,2017,0.3268
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_49,2018,0.3662
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_49,2019,0.408691817
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_49,2020,0.4525
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_49,2021,0.4979
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_49,2016,0.209990749
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_49,2017,0.195841553
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_49,2018,0.290457966
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_49,2019,0.366
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_49,2020,0.6774
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_49,2021,0.704015778
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_49,2016,0.3613
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_49,2017,0.36
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_49,2018,0.383659014
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_49,2019,0.403133418
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_49,2020,0.4119
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_49,2021,0.472621724
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_49,2016,0.4252
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_49,2017,0.395037323
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_49,2018,0.503862461
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_49,2019,0.4803
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_49,2020,0.4921
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_49,2021,0.50587824
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_49,2016,0.290481099
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_49,2017,0.223720887
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_49,2018,0.272348454
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_49,2019,0.240695903
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_49,2020,0.2029
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_49,2021,0.31163338
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_49,2016,0.2976
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_49,2017,0.288872626
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_49,2018,0.4662
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_49,2019,0.49339574
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_49,2020,0.3974
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_49,2021,0.435705907
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_49,2016,0.3609
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_49,2017,0.353545514
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_49,2018,0.3992
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_49,2019,0.4383
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_49,2020,0.4362
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_49,2021,0.495348656
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_61,2016,0.28
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_61,2017,0.27
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_61,2018,0.29
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_61,2019,0.32
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_61,2020,0.36
+Aditya Birla Sunlife Insurance Company Ltd.,ABSLI,Aditya Birla Sunlife,month_61,2021,0.38
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_61,2016,0.273130108
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_61,2017,0.31
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_61,2018,0.48
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_61,2019,0.5
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_61,2020,0.37
+Aegon Life Insurance Company Ltd.,Aegon,Aegon Life,month_61,2021,0.39
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_61,2016,0.581121721
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_61,2017,0.516189087
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_61,2018,0.434346661
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_61,2019,0.499385086
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_61,2020,0.4391
+Ageas Federal Life Insurance Company Ltd.,Ageas,Ageas Federal Life,month_61,2021,0.410966924
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_61,2016,0.31531169
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_61,2017,0.375026263
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_61,2018,0.386756715
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_61,2019,0.381
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_61,2020,0.378
+Aviva Life Insurance Company India Ltd.,Aviva,Aviva Life,month_61,2021,0.39072056
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_61,2016,0.148631165
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_61,2017,0.243435723
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_61,2018,0.271187839
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_61,2019,0.306582802
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_61,2020,0.298
+Bajaj Allianz Life Insurance Company Ltd.,BALIC,Bajaj Allianz Life,month_61,2021,0.351106629
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_61,2016,0.1653
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_61,2017,0.245224187
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_61,2018,0.334173154
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_61,2019,0.388311764
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_61,2020,0.3425
+Bharti AXA Life Insurance Company Ltd.,Bharti,Bharti AXA Life,month_61,2021,0.37487836
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_61,2016,0.31043089
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_61,2017,0.345395719
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_61,2018,0.342562693
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_61,2019,0.376099547
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_61,2020,0.4187
+Canara HSBC OBC Life Insurance Company Ltd.,CHOICE,Canara HSBC OBC Life,month_61,2021,0.456898932
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_61,2016,0.259585652
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_61,2017,0.259585652
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_61,2018,0.255836448
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_61,2019,0.298678228
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_61,2020,0.3979
+Edelweiss Tokio Life Insurance Company Ltd.,Edelweiss,Edelweiss Tokio Life,month_61,2021,0.442779587
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_61,2016,0.301
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_61,2017,0.311251461
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_61,2018,0.322219848
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_61,2019,0.330283104
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_61,2020,0.3349
+Exide Life Insurance Company Ltd.,Exide,Exide Life,month_61,2021,0.327534631
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_61,2016,0.166079703
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_61,2017,0.204576648
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_61,2018,0.200761953
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_61,2019,0.226109512
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_61,2020,0.1904
+Future Generali India Life Insurance Company Ltd.,Future Generali,Future Generali India Life,month_61,2021,0.255396663
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_61,2016,0.413637956
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_61,2017,0.5
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_61,2018,0.47
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_61,2019,0.472
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_61,2020,0.472
+HDFC Life Insurance Company Ltd.,HDFC,HDFC Life,month_61,2021,0.434
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_61,2016,0.352
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_61,2017,0.491215413
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_61,2018,0.491
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_61,2019,0.533036521
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_61,2020,0.565
+ICICI Prudential Life Insurance Company Ltd.,ICICI Pru,ICICI Prudential Life,month_61,2021,0.564200905
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_61,2016,0.2601
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_61,2017,0.3578
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_61,2018,0.384137511
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_61,2019,0.3363
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_61,2020,0.374
+IndiaFirst Life Insurance Company Ltd.,IFLI,IndiaFirst Life,month_61,2021,0.3963
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_61,2016,0.373861642
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_61,2017,0.45
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_61,2018,0.47204621
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_61,2019,0.4664
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_61,2020,0.4887
+Kotak Mahindra Life Insurance Ltd.,Kotak,Kotak Life,month_61,2021,0.508094582
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_61,2016,0.37
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_61,2017,0.46
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_61,2018,0.47
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_61,2019,0.49
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_61,2020,0.5
+MaxLife  Insurance Company Ltd.,Max,Max Life,month_61,2021,0.5
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_61,2016,0.171
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_61,2017,0.2445
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_61,2018,0.2647
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_61,2019,0.301629388
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_61,2020,0.3148
+PNB Metlife India Insurance Company Ltd.,PNB,PNB Metlife,month_61,2021,0.3865
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_61,2016,0.156585486
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_61,2017,0.221753407
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_61,2018,0.155962393
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_61,2019,0.266
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_61,2020,0.5733
+Pramerica Life Insurance Company Ltd.,Pramerica,Pramerica Life,month_61,2021,0.629127052
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_61,2016,0.1617
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_61,2017,0.314
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_61,2018,0.329709306
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_61,2019,0.361363415
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_61,2020,0.3598
+Reliance Nippon  Life Insurance Company Ltd.,Reliance,Reliance Nippon Life,month_61,2021,0.389995225
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_61,2016,0.2344
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_61,2017,0.371885726
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_61,2018,0.379981974
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_61,2019,0.4228
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_61,2020,0.4261
+SBI Life Insurance Company Ltd.,SBI,SBI Life,month_61,2021,0.389239785
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_61,2016,0.28033388
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_61,2017,0.245291574
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_61,2018,0.193375438
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_61,2019,0.237197479
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_61,2020,0.1934
+Shriram Life Insurance Company Ltd.,Shriram,Shriram Life,month_61,2021,0.216297647
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_61,2016,0.214
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_61,2017,0.224972527
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_61,2018,0.4285
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_61,2019,0.427370981
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_61,2020,0.2586
+Star Union Dai-ichi Life Insurance Company Ltd.,SUD,Star Union Dai-ichi Life,month_61,2021,0.356462759
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_61,2016,0.2402
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_61,2017,0.33217107
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_61,2018,0.3274
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_61,2019,0.3797
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_61,2020,0.427
+TATA AIA Life Insurance Company Ltd.,Tata,Tata AIA Life,month_61,2021,0.39752259

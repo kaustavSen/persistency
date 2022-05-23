@@ -1,81 +1,242 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Persistency analysis</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Persistency slope chart</title>
+    <link rel="stylesheet" href="slope_chart.css">
 </head>
 <body>
-  <div class="main">
-    <h1>Persistency analysis</h1>
-    <hr>
-    <p class="lead">
-      Persistency measures how effective an insurance company has been in retaining
-      its policyholders. Here we have analyzed the persistency experience of life
-      insurance companies over the past years.  
-    </p>
+    <h1>Trend in persistency of life insurance companies over the last five years</h1>
     <h2>
-      13<sup>th</sup> month persistency
+        The trend lines below show the persistency based on policy counts. Use
+        the radio buttons to toggle between rates at different policy durations.
+        Highlight upto five companies to visualise the comparisons between them and
+        hover over the lines to highlight.
     </h2>
-    <p>
-      The 13<sup>th</sup> month persistency rate measures the proportion of 
-      policyholders who end up paying their premium for the second policy year.
-      If a policyholder feels that the insurance purchased is not a good fit and
-      was mis-sold to then, he/she may simply lapse their policy after paying the
-      initial premium for the first year. This is quite a popular KPI used in the 
-      insurance sector.
-    </p>
-    <div class="chart">
-      <div class="chart-title">
-        <h3>
-          <span style="color: #00A0D2; font-weight: 700">Listed insurers</span> have 
-          maintained a healthy 13<sup>th</sup> month persistency rate of generally 
-          above 70%. However, <span style="color: #FFB81C; font-weight: 700">Pramerica 
-          Life</span> has shown the greatest improvement over the past 5 years.
-        </h3>
-      </div>
+    <div class="radio-toolbar" id="radio-toolbar">
+        <p>Select persistency month:</p>
+        <input type="radio" id="radio1" name = "persistency-month" value="13" checked>
+        <label for="radio1">13</label>
+
+        <input type="radio" id="radio2" name = "persistency-month" value="25">
+        <label for="radio2">25</label>
+        
+        <input type="radio" id="radio3" name = "persistency-month" value="37">
+        <label for="radio3">37</label>
+        
+        <input type="radio" id="radio4" name = "persistency-month" value="49">
+        <label for="radio4">49</label>
+        
+        <input type="radio" id="radio5" name = "persistency-month" value="61">
+        <label for="radio5">61</label>
     </div>
-    <p>
-      Next, if we look at the change in percentage points (pp) over the same
-      period as above, we observe the <strong>law of diminishing returns</strong>
+
+    <div class="main">
+        <div class="chart-holder flex-item">
+        </div>
+    
+        <div class="comp-highlight-section flex-item">
+            <p>Select companies to highlight:</p>
+            <div class="comp1">
+                <label for="comp1-select">Company 1</label>
+                <select id="comp1-select">
+                    <option value="None" selected class="placeholder">None</option>
+                    <optgroup label="Listed">
+                        <option>HDFC Life</option>
+                        <option>ICICI Prudential Life</option>
+                        <option>SBI Life</option>
+                        <option>Max Life</option>
+                    </optgroup>
+                    <optgroup label="Mid sized">
+                        <option>Kotak Life</option>
+                        <option>Tata AIA Life</option>
+                        <option>Bajaj Allianz Life</option>
+                        <option>Aditya Birla Sunlife</option>
+                    </optgroup>
+                    <optgroup label="Bank promoted">
+                        <option>PNB Metlife</option>
+                        <option>Canara HSBC OBC Life</option>
+                        <option>IndiaFirst Life</option>
+                        <option>Star Union Dai-ichi Life</option>
+                    </optgroup>
+                    <optgroup label="Others">
+                        <option>Aegon Life</option>
+                        <option>Ageas Federal Life</option>
+                        <option>Aviva Life</option>
+                        <option>Bharti AXA Life</option>
+                        <option>Edelweiss Tokio Life</option>
+                        <option>Exide Life</option>
+                        <option>Future Generali India Life</option>
+                        <option>Pramerica Life</option>
+                        <option>Reliance Nippon Life</option>
+                        <option>Shriram Life</option>
+                    </optgroup>
+                </select>
+            </div>
+    
+            <div class="comp2">
+                <label for="comp2-select">Company 2</label>
+                <select id="comp2-select">
+                    <option value="None" selected class="placeholder">None</option>
+                    <optgroup label="Listed">
+                        <option>HDFC Life</option>
+                        <option>ICICI Prudential Life</option>
+                        <option>SBI Life</option>
+                        <option>Max Life</option>
+                    </optgroup>
+                    <optgroup label="Mid sized">
+                        <option>Kotak Life</option>
+                        <option>Tata AIA Life</option>
+                        <option>Bajaj Allianz Life</option>
+                        <option>Aditya Birla Sunlife</option>
+                    </optgroup>
+                    <optgroup label="Bank promoted">
+                        <option>PNB Metlife</option>
+                        <option>Canara HSBC OBC Life</option>
+                        <option>IndiaFirst Life</option>
+                        <option>Star Union Dai-ichi Life</option>
+                    </optgroup>
+                    <optgroup label="Others">
+                        <option>Aegon Life</option>
+                        <option>Ageas Federal Life</option>
+                        <option>Aviva Life</option>
+                        <option>Bharti AXA Life</option>
+                        <option>Edelweiss Tokio Life</option>
+                        <option>Exide Life</option>
+                        <option>Future Generali India Life</option>
+                        <option>Pramerica Life</option>
+                        <option>Reliance Nippon Life</option>
+                        <option>Shriram Life</option>
+                    </optgroup>
+                </select>
+            </div>
+    
+            <div class="comp3">
+                <label for="comp3-select">Company 3</label>
+                <select id="comp3-select">
+                    <option value="None" selected class="placeholder">None</option>
+                    <optgroup label="Listed">
+                        <option>HDFC Life</option>
+                        <option>ICICI Prudential Life</option>
+                        <option>SBI Life</option>
+                        <option>Max Life</option>
+                    </optgroup>
+                    <optgroup label="Mid sized">
+                        <option>Kotak Life</option>
+                        <option>Tata AIA Life</option>
+                        <option>Bajaj Allianz Life</option>
+                        <option>Aditya Birla Sunlife</option>
+                    </optgroup>
+                    <optgroup label="Bank promoted">
+                        <option>PNB Metlife</option>
+                        <option>Canara HSBC OBC Life</option>
+                        <option>IndiaFirst Life</option>
+                        <option>Star Union Dai-ichi Life</option>
+                    </optgroup>
+                    <optgroup label="Others">
+                        <option>Aegon Life</option>
+                        <option>Ageas Federal Life</option>
+                        <option>Aviva Life</option>
+                        <option>Bharti AXA Life</option>
+                        <option>Edelweiss Tokio Life</option>
+                        <option>Exide Life</option>
+                        <option>Future Generali India Life</option>
+                        <option>Pramerica Life</option>
+                        <option>Reliance Nippon Life</option>
+                        <option>Shriram Life</option>
+                    </optgroup>
+                </select>
+            </div>
+    
+            <div class="comp4">
+                <label for="comp4-select">Company 4</label>
+                <select id="comp4-select">
+                    <option value="None" selected class="placeholder">None</option>
+                    <optgroup label="Listed">
+                        <option>HDFC Life</option>
+                        <option>ICICI Prudential Life</option>
+                        <option>SBI Life</option>
+                        <option>Max Life</option>
+                    </optgroup>
+                    <optgroup label="Mid sized">
+                        <option>Kotak Life</option>
+                        <option>Tata AIA Life</option>
+                        <option>Bajaj Allianz Life</option>
+                        <option>Aditya Birla Sunlife</option>
+                    </optgroup>
+                    <optgroup label="Bank promoted">
+                        <option>PNB Metlife</option>
+                        <option>Canara HSBC OBC Life</option>
+                        <option>IndiaFirst Life</option>
+                        <option>Star Union Dai-ichi Life</option>
+                    </optgroup>
+                    <optgroup label="Others">
+                        <option>Aegon Life</option>
+                        <option>Ageas Federal Life</option>
+                        <option>Aviva Life</option>
+                        <option>Bharti AXA Life</option>
+                        <option>Edelweiss Tokio Life</option>
+                        <option>Exide Life</option>
+                        <option>Future Generali India Life</option>
+                        <option>Pramerica Life</option>
+                        <option>Reliance Nippon Life</option>
+                        <option>Shriram Life</option>
+                    </optgroup>
+                </select>
+            </div>
+    
+            <div class="comp5">
+                <label for="comp5-select">Company 5</label>
+                <select id="comp5-select">
+                    <option value="None" selected class="placeholder">None</option>
+                    <optgroup label="Listed">
+                        <option>HDFC Life</option>
+                        <option>ICICI Prudential Life</option>
+                        <option>SBI Life</option>
+                        <option>Max Life</option>
+                    </optgroup>
+                    <optgroup label="Mid sized">
+                        <option>Kotak Life</option>
+                        <option>Tata AIA Life</option>
+                        <option>Bajaj Allianz Life</option>
+                        <option>Aditya Birla Sunlife</option>
+                    </optgroup>
+                    <optgroup label="Bank promoted">
+                        <option>PNB Metlife</option>
+                        <option>Canara HSBC OBC Life</option>
+                        <option>IndiaFirst Life</option>
+                        <option>Star Union Dai-ichi Life</option>
+                    </optgroup>
+                    <optgroup label="Others">
+                        <option>Aegon Life</option>
+                        <option>Ageas Federal Life</option>
+                        <option>Aviva Life</option>
+                        <option>Bharti AXA Life</option>
+                        <option>Edelweiss Tokio Life</option>
+                        <option>Exide Life</option>
+                        <option>Future Generali India Life</option>
+                        <option>Pramerica Life</option>
+                        <option>Reliance Nippon Life</option>
+                        <option>Shriram Life</option>
+                    </optgroup>
+                </select>
+            </div>
+            
+        </div>
+    </div>
+    <a href="" download="data_slope_chart.csv">Download data</a>
+    <h2>
+      Looking at the change in percentage points (pp) for 13<sup>th</sup> month
+      persistency, we observe the <strong>law of diminishing returns</strong>
       kick in. It is much easier to increase the persistency rate by 20pp from 40%
       to 60% but comparatively harder to get a 10pp increase from 70% to 80%.
-    </p>
-    <div class="chart2">
-      <object type="image/svg+xml" data="persistency-chart-02.svg"></object>
-    </div>
-    <h2>
-      61<sup>st</sup> month persistency
     </h2>
-    <p>
-      Another measure which goes hand in glove with the 13th month
-      persistency is the 61st month persistency rate. The main motivation
-      behind monitoring this statistic is <strong>brand loyalty</strong>. If an
-      insurer has high 61st month persistency, it is vindicative of
-      a loyal customer base who want to remain invested with the company and sees
-      value in its product offerings. Generally we would expect a company with good
-      first year persistency to score well with the 61st month persistency as well.
-    </p>
-    <p>
-      We explore this hypothesis further in the scatter plot below where we look
-      at the relationship between 13th month v/s 61st month persistency amongst
-      all insurers. 
-    </p>
-    <label for="year-select">select year:</label>
-    <select id="year-select">
-      <option value="2016">2016</option>
-      <option value="2017">2017</option>
-      <option value="2018">2018</option>
-      <option value="2019">2019</option>
-      <option value="2020">2020</option>
-      <option value="2021">2021</option>
-    </select>
-    <div class="chart3"></div>
-  </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.4.4/d3.min.js"></script>
-  <script src="script_chart_01.js"></script>
-  <!-- <script src="script_chart_02.js"></script> -->
+    <div class="chart2">
+        <object type="image/svg+xml" data="persistency-chart-02.svg"></object>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.4.4/d3.min.js"></script>
+    <script src="slope_chart.js"></script>
 </body>
 </html>

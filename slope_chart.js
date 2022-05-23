@@ -9,11 +9,11 @@ const drawChart = async () => {
       }
       
       let chartDimensions = {
-        width: 520,
-        height: 620,
+        width: 560,
+        height: 650,
         margin: {
           top: 30,
-          right: 120,
+          right: 165,
           bottom: 50,
           left: 90
         }
@@ -28,7 +28,7 @@ const drawChart = async () => {
     
       const dataFull = await d3.csv("data_slope_chart.csv", d3.autoType)
       let data = dataFull.filter(d => d.type == "month_13")
-      let dataGrouped = d3.group(data, d => d.short_name)
+      let dataGrouped = d3.group(data, d => d.short_name_2)
     
       const xAccessor = d => d.year
       const yAccessor = d => d.rate
@@ -123,18 +123,18 @@ const drawChart = async () => {
             const ypx = yScale(c.rate)
             let ny
 
-            if (ypx - previousNY < 10) {
+            if (ypx - previousNY < 15) {
               ny = previousNY + 15
             }
 
             p.push({
-              short_name: c.short_name,
+              short_name_2: c.short_name_2,
               labelPosition: ny || ypx
             })
             
             previousNY = ny || ypx
 
-            return p.sort((a, b) => d3.ascending(a.short_name, b.short_name))
+            return p.sort((a, b) => d3.ascending(a.short_name_2, b.short_name_2))
           }, [])
 
         return labelsData
@@ -143,12 +143,12 @@ const drawChart = async () => {
       const labelsVisible = labelsGroupVisible.selectAll(".name-label-visible")
         .data(getLabelPosition(data))
         .join("text")
-        .attr("class", d => `name-label-visible ${d.short_name.replace(/\s+/g,"_")}`)
+        .attr("class", d => `name-label-visible ${d.short_name_2.replace(/\s+/g,"_")}`)
           .attr("x", xScale(2021))
           .attr("y", d => d.labelPosition)
           .attr("dx", 28)
           .attr("dy", 4)
-          .text(d => d.short_name)
+          .text(d => d.short_name_2)
       
     
       const labelsGroup = bounds.append("g")
@@ -163,7 +163,7 @@ const drawChart = async () => {
           .attr("y", d => yScale(d.rate))
           .attr("dx", 8)
           .attr("dy", 4)
-          .text(d => d.short_name)
+          .text(d => d.short_name_2)
     
       const labelsRate2021 = labelsGroup.selectAll(".label-rate-2021")
         .data(data.filter(d => d.year == 2021))
@@ -214,21 +214,21 @@ const drawChart = async () => {
         labelsGroupVisible.style("opacity", 0)
         
         linesInd
-            .attr("stroke", d => d[0] == closestPoint.short_name ? "#702082" : colors.greyMedium)
-            .attr("stroke-width", d => d[0] == closestPoint.short_name ? 3 : 1.5)
+            .attr("stroke", d => d[0] == closestPoint.short_name_2 ? "#702082" : colors.greyMedium)
+            .attr("stroke-width", d => d[0] == closestPoint.short_name_2 ? 3 : 1.5)
             .classed("highlight-line-1", false)
             .classed("highlight-line-2", false)
             .classed("highlight-line-3", false)
             .classed("highlight-line-4", false)
             .classed("highlight-line-5", false)
-          .filter(d => d[0] == closestPoint.short_name)
+          .filter(d => d[0] == closestPoint.short_name_2)
           .raise()
         labels
-            .style("opacity", d => d.short_name == closestPoint.short_name ? 1 : 0)
+            .style("opacity", d => d.short_name_2 == closestPoint.short_name_2 ? 1 : 0)
         labelsRate2021
-            .style("opacity", d => d.short_name == closestPoint.short_name ? 1 : 0)
+            .style("opacity", d => d.short_name_2 == closestPoint.short_name_2 ? 1 : 0)
         labelsRate2016
-            .style("opacity", d => d.short_name == closestPoint.short_name ? 1 : 0)
+            .style("opacity", d => d.short_name_2 == closestPoint.short_name_2 ? 1 : 0)
       }
     
       function leaveEvent() {
@@ -286,7 +286,7 @@ const drawChart = async () => {
       const month = `month_${event.target.value}`
 
       data = dataFull.filter(d => d.type == month)
-      dataGrouped = d3.group(data, d => d.short_name)
+      dataGrouped = d3.group(data, d => d.short_name_2)
 
       linesIndGroup
         .selectAll(".lines-ind")
@@ -307,7 +307,7 @@ const drawChart = async () => {
         .transition(transition())
         .delay((d, i) => i * 20)
           .attr("y", d => yScale(d.rate))
-          .text(d => d.short_name)
+          .text(d => d.short_name_2)
 
       labelsGroup.selectAll(".label-rate-2021")
         .data(data.filter(d => d.year == 2021))
@@ -322,12 +322,12 @@ const drawChart = async () => {
         labelsGroupVisible
           .selectAll(".name-label-visible")
           .data(getLabelPosition(data))
-            .attr("class", d => `name-label-visible ${d.short_name.replace(/\s+/g,"_")}`)
-            .classed("highlight-comp-1", d => d.short_name.replace(/\s+/g,"_") ==  comp_name_1)
-            .classed("highlight-comp-2", d => d.short_name.replace(/\s+/g,"_") ==  comp_name_2)
-            .classed("highlight-comp-3", d => d.short_name.replace(/\s+/g,"_") ==  comp_name_3)
-            .classed("highlight-comp-4", d => d.short_name.replace(/\s+/g,"_") ==  comp_name_4)
-            .classed("highlight-comp-5", d => d.short_name.replace(/\s+/g,"_") ==  comp_name_5)
+            .attr("class", d => `name-label-visible ${d.short_name_2.replace(/\s+/g,"_")}`)
+            .classed("highlight-comp-1", d => d.short_name_2.replace(/\s+/g,"_") ==  comp_name_1)
+            .classed("highlight-comp-2", d => d.short_name_2.replace(/\s+/g,"_") ==  comp_name_2)
+            .classed("highlight-comp-3", d => d.short_name_2.replace(/\s+/g,"_") ==  comp_name_3)
+            .classed("highlight-comp-4", d => d.short_name_2.replace(/\s+/g,"_") ==  comp_name_4)
+            .classed("highlight-comp-5", d => d.short_name_2.replace(/\s+/g,"_") ==  comp_name_5)
           .transition(transition())
           .delay((d, i) => i * 20)
             .attr("y", d => d.labelPosition)
